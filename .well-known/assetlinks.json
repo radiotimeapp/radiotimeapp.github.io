@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.radiotime.app",
+    "sha256_cert_fingerprints":
+    ["CF:3E:88:1D:AD:95:11:9B:9E:4D:F7:87:0D:10:99:74:B0:97:B4:55:EA:CB:C0:89:E5:0F:7B:1E:0A:EE:70:EC", "0E:FD:AF:5C:DC:81:1A:57:8A:13:B0:B4:51:DB:41:2B:22:DA:F0:FA:A5:61:CA:B0:01:48:34:DF:D0:21:1A:9F", "61:93:BF:A3:2A:61:F9:24:EB:69:33:93:8E:87:D3:01:18:41:21:5B:0D:B8:4B:25:98:1F:52:6C:75:E8:5A:A5"]
+  }
+}]
